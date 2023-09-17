@@ -24,6 +24,12 @@ In the future, we plan to:
 
 Thank you for your interest in our project!
 
+## Team
+
+- Jonathan McPherson - Android App Development
+- James Carrington - ChatGPT debugging
+- Jose David Cuartes
+
 ## Resources
 
 We used online tutorials to teach ourselves kotlin and html and used Chat GPT to solve our debugging problems.
